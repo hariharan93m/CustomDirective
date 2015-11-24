@@ -1,0 +1,21 @@
+<NotepadPlus>
+    <Project name="Directives">
+        <Folder name="js">
+            <Folder name="dependency">
+                <File name="js\dependency\angular-mocks.js" />
+                <File name="js\dependency\angular-ui-router.js" />
+                <File name="js\dependency\angular.min.js" />
+                <File name="js\dependency\angular.min.js.map" />
+                <File name="js\dependency\lodash.js" />
+                <File name="js\dependency\ngDialog.js" />
+                <File name="js\dependency\restangular.js" />
+                <File name="js\dependency\ui-grid.min.js" />
+            </Folder>
+            <File name="js\MainController.js" />
+        </Folder>
+        <File name=".gitignore" />
+        <File name="customDc.html" />
+        <File name="index.html" />
+        <File name="README.md" />
+    </Project>
+</NotepadPlus>
